@@ -1,0 +1,6 @@
+Student Name	AGE
+A	28
+B	29
+C	21
+F	26
+G	20
